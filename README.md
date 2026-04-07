@@ -22,7 +22,7 @@ I am a Full Stack Developer skilled in Java, Spring Boot, React and PostgreSQL. 
 4. Fake News Detection
 
 ## Portfolio Website
-https://github.com/kr1thi/Portfolio
+https://kr1thi.github.io/Portfolio/
 
 ## GitHub Profile
 https://github.com/kr1thi
